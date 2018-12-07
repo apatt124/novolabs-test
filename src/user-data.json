@@ -1,0 +1,25 @@
+{
+    "data": {
+        "accounts": [
+            {
+                "account_id": 1,
+                "users": [
+                    {
+                        "user_id": 1,
+                        "name": "John",
+                        "age": 30
+                    },
+                    {
+                        "user_id": 2,
+                        "name": "Sally",
+                        "age": 25
+                    }
+                ]
+            },
+            {
+                "account_id": 2,
+                "users": []
+            }
+        ]
+    }
+}
