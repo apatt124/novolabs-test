@@ -1,7 +1,7 @@
 # Install Instructions For Alex's Code Test
 
-1. Navigate to directory containing `package.json`
-2. In terminal, run `npm install`
+1. In terminal, navigate to the directory containing `package.json`
+2. Run `npm install`
 3. Once installation is complete, run `npm start` and navigate to [localhost:3000](http://localhost:3000)
 
 **Libraries Used**
